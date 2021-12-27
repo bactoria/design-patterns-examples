@@ -27,6 +27,6 @@ interface Whiskey
 
 class Glenfiddich : Whiskey
 
-class Label5 : Whiskey
+class Label5 : Whiskey, me.bactoria.behavioral.templatemethod.Whiskey
 
 class Bombay : Whiskey
